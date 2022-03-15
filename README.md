@@ -1,16 +1,13 @@
-### Hi there 👋
+### Oops, Blz 👍
 
-<!--
-**vincytarsis/vincytarsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Hoje estou focado em aprender Python, Banco de Dados, Automação, Testes e boas práticas. 
 
-Here are some ideas to get you started:
+- 👨‍🎓 Curso Sistemas de Informação no Grupo UNIS de Varginha - Atualmente estou no 5° Módulo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Estudando Python, SQL, Web e APIs.
+
+- 🔍 Estou fazendo curso Python Impressionador e Mundos 1,2,3 de Python do Curso em vídeo.
+
+- 😄 Pronouns: ele/dele
+
+
