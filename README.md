@@ -21,8 +21,10 @@
   <a href="https://www.youtube.com/channel/UCFfFnntk10rR1QkaBryPhdg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vincy.tarsis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vincydetarsis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vincydetarsis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vincydetarsis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.streamelements.com/uploads/3987c223-0700-4f3b-a666-bd360fc12573.gif">
  
+                                                                                  
   ![Snake animation](https://github.com/vincytarsis/vincytarsis/blob/output/github-contribution-grid-snake.svg)
  
 </div>
