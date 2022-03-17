@@ -25,6 +25,6 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.streamelements.com/uploads/3987c223-0700-4f3b-a666-bd360fc12573.gif">
  
                                                                                   
-  ![Snake animation](https://github.com/vincytarsis/vincytarsis/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/vincytarsis/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
