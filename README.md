@@ -32,6 +32,6 @@
    <img alingn="center" src="https://profile-counter.glitch.me/vincytarsis/count.svg" />
  </p>
  
-  ![Snake animation](https://github.com/vincytarsis/vincytarsis/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vincytarsis/vincytarsis/blob/main/.github/fluxos%20de%20trabalho/github-contribution-grid-snake.svg)
  
 </div>
