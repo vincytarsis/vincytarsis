@@ -1,4 +1,4 @@
-### Oops, Blz 👍
+# Hi there! I'm Vincy de Tarsis 😀
 
 - 👨‍💻 Hoje estou focado em aprender Python, Banco de Dados, Automação, Testes e boas práticas. 
 
